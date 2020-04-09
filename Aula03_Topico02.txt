@@ -1,0 +1,5 @@
+Aula03_Topico02 – Para fins de aprendizado foi criado um projeto Java chamado AlgumaLex, logo depois a classe tipo enum TipoToken.java, onde foram escritos todos os tokens que iriam participar do projeto do analisador léxico da linguagem ALGUMA. Foi feito também a Classe  Leitor de Arquivos Texto: Referencia um .txt  onde está escrito um código na linguagem ALGUMA e lê ele no Java, e implementa códigos para ajudar no reconhecimento dos tokens. AlgumaLexico.java: Implementa o método próximoToken () no qual reconhece o token, ignorando os espaços em brancos.
+
+Também é criado e explicado a lógica de um buffer duplo para não ocorrer certos erros específicos no reconhecimento do token pelos lexemas.
+
+Mostra AFDs representando o reconhecimento de uma sequencia de caracteres na linguagem, como por exemplo o sinal “<=”.
