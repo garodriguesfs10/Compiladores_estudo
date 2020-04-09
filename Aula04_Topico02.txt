@@ -1,0 +1,3 @@
+Aula03_Tópico02 – É apresentado a ferramenta Antlr, que é um gerador de parsers, baseado em Java. Criado também um novo projeto no Netbeans com Maven. Definindo-se a grámatica no arquivo AlgumaLexer.g4. Apresenta como é feito o analisar léxico usando o Antlr. Exemplos de Definição:
+PALAVRA_CHAVE: ‘DECLARACAO’ | ‘IMPRIMIR’
+NUMINT: (‘+’ | ‘-‘)? (‘0’..’9’)+;
