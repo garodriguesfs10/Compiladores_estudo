@@ -1,0 +1,5 @@
+Aula 02_Tópico 02 – Mostra a diferença entre
+Lexema: Sequência de caracteres no programa fonte
+Padrão: Caracteriza classes de lexemas, o padrão que eles costumam ser ‘escritos’ para reconhece-los
+Token: Unidade Léxica correspondente ao lexema, geralmente com dois campos: Tipo do Token (Usado pelo analisador sintático) e valor.  Também foi citado sobre erros léxicos que é gerado 
+quando não existe um padrão capaz de reconhecer a entrada.
