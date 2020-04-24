@@ -1,0 +1,2 @@
+java -jar C:/Users/gabriel.oliveira/Desktop/projetos_netbeans/alguma-lexico/target/alguma-lexico-1.0-SNAPSHOT-jar-with-dependencies.jar C:/Users/gabriel.oliveira/Desktop/projetos_netbeans/teste.txt
+java -jar /Users/gabriel.oliveira/Documents/NetBeansProjects/alguma-sintatico/target/alguma-sintatico-1.0-SNAPSHOT-jar-with-dependencies.jar /Users/gabriel.oliveira/Desktop/projetos_netbeans/testeSintatico.txt
